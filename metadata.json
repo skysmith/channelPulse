@@ -1,0 +1,5 @@
+{
+  "name": "ChannelPulse",
+  "description": "Scans Slack conversations to generate executive summaries, deep dive reports, and NotebookLM-style audio overviews using Gemini.",
+  "requestFramePermissions": []
+}
